@@ -30,6 +30,7 @@ petrovka.add(10)
 petrovka.add(20)
 petrovka.add(30)
 
+
 print(petrovka.get_house(0))
 
 petrovka.del_house(0)
